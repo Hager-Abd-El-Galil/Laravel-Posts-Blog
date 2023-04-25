@@ -1,4 +1,4 @@
-# STUDENTS BLOG
+# POSTS BLOG
 <p align="center" style="margin-top:6%;margin-bottom:6%;">
  <img style = "width:140px; height:140px;" src="https://www.freepnglogos.com/uploads/panda-png/panda-clipart-bamboo-drawing-panda-bamboo-drawing-17.png" />
 </p>
