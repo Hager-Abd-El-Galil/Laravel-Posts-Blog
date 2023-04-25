@@ -11,6 +11,7 @@
 - Create New Post
 - Update Exist Post
 - Delete Post (Soft Delete)
+- Create Comment
 
 ## DEMO
 🎬
